@@ -1,6 +1,4 @@
-### Olá! Eu sou o Gabriel Ribeiro e sou estudante de programação.
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ggabrieldn/?next=%2F)    
+### Olá! Eu sou o Gabriel Ribeiro.
 
 
 ### Tecnologias que estou aprendendo
